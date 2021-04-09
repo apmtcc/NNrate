@@ -16,4 +16,4 @@ An example of input files is supplied as "testset" and "trainset". The optimized
 
 4) Prediction: NNrate/predict/
 
-Run nn_predict.py with the provided neural network parameters and descriptors of the target reaction, the predicted rate constant from each model  (or scheme) will be supplied.
+Running nn_predict.py with the provided neural network parameters and descriptors of the target reaction, the predicted rate constant from each model  (or scheme) will be supplied.
